@@ -9,7 +9,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # =============== НАСТРОЙКИ ===============
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # ← ЗАМЕНИ НА НОВЫЙ ТОКЕН ИЗ @BotFather!
+BOT_TOKEN = "8479275418:AAHoXo5-aA69Rn_-pCewm90nFkgiWmBox2c"  # ← ЗАМЕНИ НА НОВЫЙ ТОКЕН ИЗ @BotFather!
 WEBHOOK_URL = "https://yourdomain.com"  # ← твой публичный HTTPS URL (см. ниже)
 # ===============
 
